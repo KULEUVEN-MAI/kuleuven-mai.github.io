@@ -9,6 +9,7 @@ We welcome all contributions!
 # Courses
 
 
-- [Uncertainty In Artificial Intelligence](https://github.com/KULeuven-MAI/UAI)
-- [Cognitive Science](https://github.com/KULeuven-MAI/CogSci)
-- 
+- [Uncertainty In Artificial Intelligence](https://github.com/KULeuven-MAI/UAI) (responsible author: Dieter Castel)
+- [Cognitive Science](https://github.com/KULeuven-MAI/CogSci) (responsible author: Dieter Castel)
+- TODO (responsible author: Your Name Here) 
+- ...
